@@ -1,0 +1,6 @@
+@back_HostAddress = http://localhost:5192
+
+GET {{back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

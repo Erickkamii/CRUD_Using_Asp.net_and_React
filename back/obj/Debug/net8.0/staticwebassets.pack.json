@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\nodeproject\\CRUD_Using_Asp.net_and_React\\back\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.back.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.back.props",
+      "PackagePath": "build\\back.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.back.props",
+      "PackagePath": "buildMultiTargeting\\back.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.back.props",
+      "PackagePath": "buildTransitive\\back.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

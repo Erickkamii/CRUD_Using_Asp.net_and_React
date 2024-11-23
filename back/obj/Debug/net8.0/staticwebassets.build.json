@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "h1moZ0rwIQ82+R6BBiJKBbYoI8NXsTRgf6CpTcWJdQw=",
+  "Source": "back",
+  "BasePath": "_content/back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "back\\wwwroot",
+      "Source": "back",
+      "ContentRoot": "C:\\nodeproject\\CRUD_Using_Asp.net_and_React\\back\\wwwroot\\",
+      "BasePath": "_content/back",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\nodeproject\\CRUD_Using_Asp.net_and_React\\back\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "back",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\nodeproject\\CRUD_Using_Asp.net_and_React\\back\\wwwroot\\",
+      "BasePath": "_content/back",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    }
+  ]
+}
