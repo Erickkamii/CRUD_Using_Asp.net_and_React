@@ -509,3 +509,4 @@ C:\nodeproject\CRUD_Using_Asp.net_and_React\back\obj\Debug\net8.0\refint\back.dl
 C:\nodeproject\CRUD_Using_Asp.net_and_React\back\obj\Debug\net8.0\back.pdb
 C:\nodeproject\CRUD_Using_Asp.net_and_React\back\obj\Debug\net8.0\back.genruntimeconfig.cache
 C:\nodeproject\CRUD_Using_Asp.net_and_React\back\obj\Debug\net8.0\ref\back.dll
+C:\nodeproject\CRUD_Using_Asp.net_and_React\back\obj\Debug\net8.0\back.sourcelink.json
